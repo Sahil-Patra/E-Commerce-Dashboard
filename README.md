@@ -7,6 +7,8 @@ An interactive and data-driven e-commerce dashboard built with **Power BI** to v
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Data Source](#data-source)
+- [Screenshot of pages](#Screenshots)
+- [Project](#Project)
 - [Usage](#usage)
 - [Contact](#contact)
 
@@ -41,6 +43,27 @@ This project uses sample data that simulates typical e-commerce data:
 - **Sales**: Contains sales details like order date, order number, unit price, quantity and territory key from the year 2019 to 2023.
 - **Location**: Contains region details including sales territory, country an continent .
 
+## Screenshots
+  **Overview Page**: The initial dashboard page is intentionally designed to be straightforward, featuring three crucial Key Performance Indicators (KPIs) and a concise narrative that encapsulates the entire report.
+  ![Screenshot 2024-11-04 115908](asset/images)
+
+  **Sales Page**: This screenshot shows the sales overview page of the e-commerce dashboard. It includes key metrics such as Top 5 customer by revenue, total revenue by channel, date and location, Total return by year. This page provides insights of revenue trends over time and location with highly profitable.
+   ![Screenshot 2024-11-04 115928](asset/images)
+
+  **Product Page**:This screenshot displays the product page of the e-commerce dashboard. It includes key metrics such as total revenue,top-selling and underperforming products, product views, Total revenue by channel and total return by category.This page provides insights into product performance, helping optimize stock management and sales strategies.
+   ![Screenshot 2024-11-04 115954](asset/images)
+
+  **Employee Page**: This screenshot displays the employee page of the e-commerce dashboard. It provides a performance overview for each team member, allowing managers to track productivity, recognize high performers, and identify areas for support or training.
+    ![Screenshot 2024-11-04 120048](asset/images)
+
+  **Drilldown Page**: It's a drilldown page, that showcases products in a detailed manner, enabling you to assess their performance and understand their growth. 
+   ![Screenshot 2024-11-04 120116](asset/images)
+
+  **Tooltip**: It's a Tooltip page, designed for interactive and engaging tooltips to enrich the dashboard's overall quality.
+    ![Screenshot 2024-11-04 120139](asset/images)
+
+## Project
+
 ## Usage
 1. **View the dashboard**:
    - Open Power BI and explore different report pages, charts, and filters.
@@ -57,6 +80,7 @@ Ph no.: +91 7735367833
 ---
 
 **Thank you for checking out this project!** If you have any questions or feedback, please feel free to reach out.
+Credit goes to Akshay Khamble Sir for teaching me how to create a dashboard. Thanks sir.
 
 
 ---
