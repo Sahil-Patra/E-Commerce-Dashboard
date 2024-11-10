@@ -63,7 +63,7 @@ This project uses sample data that simulates typical e-commerce data:
     ![Tooltip](assets/images/Tooltips_page.png)
 
 ## Project
-  ## **Project** : [![project](E-commerce_dashboard.pbix)](https://github.com/Sahil-Patra/E-Commerce-Dashboard/commit/4bb470d99b55c8ec5b3446c51cb7597a120d9ff7)
+  ## **Project** : [![project](E-commerce_dashboard.pbix)](assets/project/E-commerce Dashboard.pbix)
 ## Usage
 1. **View the dashboard**:
    - Open Power BI and explore different report pages, charts, and filters.
