@@ -45,25 +45,25 @@ This project uses sample data that simulates typical e-commerce data:
 
 ## Screenshots
   **Overview Page**: The initial dashboard page is intentionally designed to be straightforward, featuring three crucial Key Performance Indicators (KPIs) and a concise narrative that encapsulates the entire report.
-  ![Overview-page](asset/images/Overview_page.png)
+  ![Overview-page](assets/images/Overview_page.png)
 
   **Sales Page**: This screenshot shows the sales overview page of the e-commerce dashboard. It includes key metrics such as Top 5 customer by revenue, total revenue by channel, date and location, Total return by year. This page provides insights of revenue trends over time and location with highly profitable.
-   ![Sales-page](asset/images/Sales_page.png)
+   ![Sales-page](assets/images/Sales_page.png)
 
   **Product Page**:This screenshot displays the product page of the e-commerce dashboard. It includes key metrics such as total revenue,top-selling and underperforming products, product views, Total revenue by channel and total return by category.This page provides insights into product performance, helping optimize stock management and sales strategies.
-   ![Product-pge](asset/images/Product_page.png)
+   ![Product-pge](assets/images/Product_page.png)
 
   **Employee Page**: This screenshot displays the employee page of the e-commerce dashboard. It provides a performance overview for each team member, allowing managers to track productivity, recognize high performers, and identify areas for support or training.
-    ![Employee-page](asset/images/Employee_page.png)
+    ![Employee-page](assets/images/Employee_page.png)
 
   **Drilldown Page**: It's a drilldown page, that showcases products in a detailed manner, enabling you to assess their performance and understand their growth. 
-   ![Drilldown-page](asset/images/Details_page.png)
+   ![Drilldown-page](assets/images/Details_page.png)
 
   **Tooltip**: It's a Tooltip page, designed for interactive and engaging tooltips to enrich the dashboard's overall quality.
-    ![Tooltip](asset/images/Tooltips_page.png)
+    ![Tooltip](assets/images/Tooltips_page.png)
 
 ## Project
-  [![project](E-commerce_dashboard.pbix)](https://github.com/Sahil-Patra/E-Commerce-Dashboard/commit/4bb470d99b55c8ec5b3446c51cb7597a120d9ff7)
+  ## **Project** : [![project](E-commerce_dashboard.pbix)](https://github.com/Sahil-Patra/E-Commerce-Dashboard/commit/4bb470d99b55c8ec5b3446c51cb7597a120d9ff7)
 ## Usage
 1. **View the dashboard**:
    - Open Power BI and explore different report pages, charts, and filters.
