@@ -73,7 +73,7 @@ This project uses sample data that simulates typical e-commerce data:
    - Gain insights into product performance, customer behavior, and sales trends.
 
 ## Contact
-**Your Name**  
+**Sahil Patra**  
 GitHub: [Sahil-Patra](https://github.com/Sahil-Patra)  
 Email: sahilpatra1004@gmail.com
 Ph no.: +91 7735367833
