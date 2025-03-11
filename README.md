@@ -5,7 +5,7 @@ An interactive and data-driven e-commerce dashboard built with **Power BI** to v
 ## Table of Contents
 - [About the Project](#about-the-project)
 - [Features](#features)
-- [Technologies Used](#technologies-used)
+- [Tools Used](#tools-used)
 - [Data Source](#data-source)
 - [Screenshot of pages](#Screenshots)
 - [Project](#Project)
@@ -26,7 +26,7 @@ The dashboard offers visualizations like revenue trends, top-selling products, c
 - **Regional Performance**: Analyze sales distribution across different regions.
 - **Dynamic Filtering**: Filter data by time, category, region, and other parameters.
   
-## Technologies Used
+## Tools Used
 - **Power BI**: For creating interactive dashboards and visualizations.
 - **Canvas**: For creating the background of pages.
 - **Sample Dataset**: Sample sales data in CSV format or xslx format.
