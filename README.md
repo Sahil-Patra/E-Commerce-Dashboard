@@ -42,10 +42,10 @@ This Power BI dashboard was designed to help e-commerce businesses uncover perfo
 **Project** : [E-commerce_dashboard.pbix](https://app.powerbi.com/view?r=eyJrIjoiNjMyZGZiMGMtZTk3My00NThhLWFmOTEtNmU4MzNjNTBhNWMzIiwidCI6ImRiOThlOTIzLWQyZWEtNDY2MS1hZDE1LTI3YzUyNjA2MGEyYiJ9)
 
   **Overview Page**:  
-    The Overview page provides a high-level summary of the business's performance through three key KPIs:
-    - Total Orders
-    - Total Revenue
-    - Total Quantity Sold
+    The Overview page provides a high-level summary of the business's performance through three key KPIs: 
+    - Total Orders 
+    - Total Revenue 
+    - Total Quantity Sold 
 
    Why It Matters: These KPIs offer a snapshot of overall health, enabling stakeholders to quickly assess how the business is performing across core metrics.
   ![Overview-page](assets/images/Overview_page.png)
@@ -53,12 +53,12 @@ This Power BI dashboard was designed to help e-commerce businesses uncover perfo
   **Sales Page**:  
    This page offers deeper insights into revenue trends, customer behavior, and regional performance, empowering strategic sales planning.
 
-   Key Visuals:
-      - Top 5 Customers by Revenue – Helps identify high-value customers for loyalty or upsell campaigns.
-      - Total Returns by Year – Tracks product return trends, useful for quality control or policy updates.
-      - Revenue Trend Line (2021–2023) + Forecast for 2024 – Includes drill-up/down navigation and interactive hover tooltips to project minimum, average, and maximum expected revenue.
-      - Map-Based Revenue by Country – Highlights top-performing and underperforming regions, supporting targeted regional strategies.
-      - Interactive Filters (hidden by design) – Allow users to slice data by year, country, category, etc.
+   Key Visuals: 
+      - Top 5 Customers by Revenue – Helps identify high-value customers for loyalty or upsell campaigns. 
+      - Total Returns by Year – Tracks product return trends, useful for quality control or policy updates. 
+      - Revenue Trend Line (2021–2023) + Forecast for 2024 – Includes drill-up/down navigation and interactive hover tooltips to project minimum, average, and maximum expected revenue. 
+      - Map-Based Revenue by Country – Highlights top-performing and underperforming regions, supporting targeted regional strategies. 
+      - Interactive Filters (hidden by design) – Allow users to slice data by year, country, category, etc. 
 
    Why It Matters: This section helps executives monitor revenue growth, understand return impact, and make informed future revenue forecasts based on past performance.
    ![Sales-page](assets/images/Sales_page.png)
@@ -66,30 +66,30 @@ This Power BI dashboard was designed to help e-commerce businesses uncover perfo
   **Product Page**: 
     This page is designed to evaluate product performance and help the business optimize inventory, marketing, and fulfillment operations.
 
-   Key Visuals:
-       - Top 5 and Bottom 5 Products by Revenue – Reveals best and worst performers.
-       - Total Returns by Product Category – Identifies categories with high dissatisfaction or defect rates.
-       - Total Orders by Sales Channel – Highlights which channels (e.g., online, retail) are driving the most orders.
-       - Product Distribution by Subcategory – Shows breadth and depth of product offerings.
+   Key Visuals: 
+       - Top 5 and Bottom 5 Products by Revenue – Reveals best and worst performers. 
+       - Total Returns by Product Category – Identifies categories with high dissatisfaction or defect rates. 
+       - Total Orders by Sales Channel – Highlights which channels (e.g., online, retail) are driving the most orders. 
+       - Product Distribution by Subcategory – Shows breadth and depth of product offerings. 
        
    Why It Matters: These insights enable teams to optimize product portfolios, scale distribution of high performers, and investigate poor-performing SKUs for improvement.
    ![Product-pge](assets/images/Product_page.png)
 
   **Employee Page**:  
-    This section provides in-depth details about employees, including their reporting relationships and roles within the organization.
+    This section provides in-depth details about employees, including their reporting relationships and roles within the organization. 
 
-   Key Visuals:
-        - Custom visuals display which employees work under which supervisor or manager, offering hierarchical clarity and performance alignment.
+   Key Visuals: 
+        - Custom visuals display which employees work under which supervisor or manager, offering hierarchical clarity and performance alignment. 
 
    Why It Matters: Supports HR and operations teams in resource planning, team structuring, and supervisory performance reviews.
   ![Employee-page](assets/images/Employee_page.png)
 
   **Drilldown Page**:  
-    It's a drilldown page, that showcases products in a detailed manner, enabling you to assess their performance and understand their growth. 
+    It's a drilldown page, that showcases products in a detailed manner, enabling you to assess their performance and understand their growth.  
    ![Drilldown-page](assets/images/Details_page.png)
 
   **Tooltip**:
-    It's a Tooltip page, designed for interactive and engaging tooltips to enrich the dashboard's overall quality.
+    It's a Tooltip page, designed for interactive and engaging tooltips to enrich the dashboard's overall quality. 
     ![Tooltip](assets/images/Tooltips_page.png)
 
 ## Contact
@@ -101,7 +101,7 @@ Email: sahilpatra1004@gmail.com
 Ph no.: +91 7735367833
 ---
 
-**Thank you for checking out this project!** 
+**Thank you for checking out this project!**  
 Credit goes to Akshay Khamble Sir for teaching me how to create a dashboard. Thanks sir.
 
 
